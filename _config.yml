@@ -21,12 +21,12 @@ repository               : "XulongT/xulong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   name             : "Xulong Tang"
   pronouns         : "he/him"  
-  bio              : "BBQ lover"
+  bio              : "The University of Texas at Dallas"
   location         : "Plano, Texas"
-  employer         : "The University of Texas at Dallas"
+  employer         : #"The University of Texas at Dallas"
   uri              : # URL
   email            : "xulong.tang@utdallas.edu" 
 
