@@ -12,12 +12,13 @@ Yo! I'm Xulong Tang, you can call me Ben!
 
 I am a first year PhD student from the Department of Computer Science at The University of Texas at Dallas. I worked under the mentorship of Professor [Rawan Alghofaili](https://rawanmg.com/) at [Human-Centered eXD Lab](https://sites.google.com/view/rawanmg). 
 
+**Research interests**: 
+  - Extended Reality (XR)
+  - Computer Vision
+  - Multimedia Retrieval
+  - Multimodal Learning
 
-**Email**: Xulong.Tang@utdallas.edu
-
-**Research interest**: Virtual Reality, Augmented Reality, Mixed Reality, Computer Vision, Multimedia Retrieval, Multimodal Learning
-
-In addition to my research, I am also a game developer.
+In addition to my research, I am also a game developer:
 
 I have used Unity to create a VR educational game for teaching children about the universe at the [Sci-Tech Discovery Center](https://mindstretchingfun.org/). 
 
