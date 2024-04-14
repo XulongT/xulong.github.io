@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ben | Xulong Tang"
+title: "Xulong Tang (Ben)"
 author_profile: true
 redirect_from: 
   - /about/
